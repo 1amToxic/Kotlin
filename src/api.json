@@ -1,0 +1,82 @@
+[
+  {
+    "country": "China",
+    "countryInfo": {
+      "iso2": "CN",
+      "iso3": "CHN",
+      "_id": 156,
+      "lat": 35,
+      "long": 105,
+      "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/cn.png"
+    },
+    "cases": 81285,
+    "todayCases": 67,
+    "deaths": 3287,
+    "todayDeaths": 6,
+    "recovered": 74051,
+    "active": 3947,
+    "critical": 1235,
+    "casesPerOneMillion": 56,
+    "deathsPerOneMillion": 2
+  },
+  {
+    "country": "Italy",
+    "countryInfo": {
+      "iso2": "IT",
+      "iso3": "ITA",
+      "_id": 380,
+      "lat": 42.8333,
+      "long": 12.8333,
+      "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/it.png"
+    },
+    "cases": 74386,
+    "todayCases": 5210,
+    "deaths": 7503,
+    "todayDeaths": 683,
+    "recovered": 9362,
+    "active": 57521,
+    "critical": 3489,
+    "casesPerOneMillion": 1230,
+    "deathsPerOneMillion": 124
+  },
+  {
+    "country": "USA",
+    "countryInfo": {
+      "iso2": "NO DATA",
+      "iso3": "NO DATA",
+      "_id": "NO DATA",
+      "lat": 0,
+      "long": 0,
+      "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/unknow.png"
+    },
+    "cases": 65797,
+    "todayCases": 10941,
+    "deaths": 935,
+    "todayDeaths": 155,
+    "recovered": 394,
+    "active": 64468,
+    "critical": 1411,
+    "casesPerOneMillion": 199,
+    "deathsPerOneMillion": 3
+  },
+  {
+    "country": "Spain",
+    "countryInfo": {
+      "iso2": "ES",
+      "iso3": "ESP",
+      "_id": 724,
+      "lat": 40,
+      "long": -4,
+      "flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/es.png"
+    },
+    "cases": 49515,
+    "todayCases": 7457,
+    "deaths": 3647,
+    "todayDeaths": 656,
+    "recovered": 5367,
+    "active": 40501,
+    "critical": 3166,
+    "casesPerOneMillion": 1059,
+    "deathsPerOneMillion": 78
+  }
+]
